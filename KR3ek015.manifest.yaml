@@ -1,0 +1,632 @@
+canonical_identifier: bkk:krp/KR3ek015/v1
+canonical_location: https://kanripo.org/bkk/KR3ek015/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 外科選要
+  identifiers:
+    krp: KR3ek015
+  tags:
+    kr-categories: KR3ek
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ek015.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ek015_000.yaml, hash: 'sha256:9a501bc87226a2a25bd3028cb8bc83a1d6489861c74839ee15de98c933167290'}
+  - {seq: 1, filename: KR3ek015_001.yaml, hash: 'sha256:6bf5d1a9622114fe417a17811b23ed82df60e65adc12223c17729ce5edd2a9c9'}
+  - {seq: 3, filename: KR3ek015_003.yaml, hash: 'sha256:d4dbaa7dad594866356870db6473eca2821b88136e4e7fce6d1f2515dd9d0670'}
+  - {seq: 0, filename: KR3ek015_000.yaml, hash: 'sha256:9a501bc87226a2a25bd3028cb8bc83a1d6489861c74839ee15de98c933167290'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ek015_000.markers.yaml, hash: 'sha256:00174bef4a93f8daeb2c5d030b11e055c3a438591aac132523f10ba83a7a104e'}
+  - {seq: 1, role: markers, filename: assets/KR3ek015_001.markers.yaml, hash: 'sha256:320c93959f7ebbdbdbb1bf54f526e7a36eeb2a1df7c99619522e904c8fbe609f'}
+  - {seq: 3, role: markers, filename: assets/KR3ek015_003.markers.yaml, hash: 'sha256:c76326eea604f92d05f3fc4b1e52133003e3e5669de020d68cacc5c79a9fea1a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ek015_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 150
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 13742
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 2189
+  label: 癰疽原委論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d3
+    span:
+    - body
+    - 2189
+    - 7030
+  label: 癰疽治法總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d4
+    span:
+    - body
+    - 7030
+    - 8080
+  label: 治病則例歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d5
+    span:
+    - body
+    - 8080
+    - 8456
+  label: 癰疽灸法並禁灸瘡穴
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d6
+    span:
+    - body
+    - 8456
+    - 8739
+  label: 論病生死法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d7
+    span:
+    - body
+    - 8739
+    - 9005
+  label: 察形色順逆
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d8
+    span:
+    - body
+    - 9005
+    - 9430
+  label: 病有三因受病主治不同論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d9
+    span:
+    - body
+    - 9430
+    - 9905
+  label: 調理須知
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d10
+    span:
+    - body
+    - 9905
+    - 10130
+  label: 雜忌須知
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d11
+    span:
+    - body
+    - 10130
+    - 10294
+  label: 瘡瘍看法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d12
+    span:
+    - body
+    - 10294
+    - 10498
+  label: 腫瘍治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d13
+    span:
+    - body
+    - 10498
+    - 10702
+  label: 潰瘍治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d14
+    span:
+    - body
+    - 10702
+    - 11270
+  label: 癰疽諸症瘡名十律
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d15
+    span:
+    - body
+    - 11270
+    - 11831
+  label: 煉元明粉法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d16
+    span:
+    - body
+    - 11831
+    - 11911
+  label: 取蟾酥法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d17
+    span:
+    - body
+    - 11911
+    - 11972
+  label: 製附子法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d18
+    span:
+    - body
+    - 11972
+    - 12628
+  label: 制炒諸藥
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d19
+    span:
+    - body
+    - 12628
+    - 12788
+  label: 仙方活命飲古今不同論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d20
+    span:
+    - body
+    - 12788
+    - 13082
+  label: 醫家五戒
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ek015_jc_001-d3d21
+    span:
+    - body
+    - 13082
+    - 13742
+  label: 醫家十要
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.h1s1
+    span:
+    - body
+    - 0
+    - 7600
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4d2
+    span:
+    - body
+    - 2
+    - 268
+  label: 經絡
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4d3
+    span:
+    - body
+    - 268
+    - 1454
+  label: 十二經補瀉藥品
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4d4
+    span:
+    - body
+    - 1454
+    - 1522
+  label: 散品
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4d5
+    span:
+    - body
+    - 1522
+    - 1582
+  label: 走品
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4d6
+    span:
+    - body
+    - 1582
+    - 4855
+  label: 標使治宜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d6d4
+    span:
+    - body
+    - 1782
+    - 1958
+  label: 汗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d6d5
+    span:
+    - body
+    - 1958
+    - 2143
+  label: 下
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d6d6
+    span:
+    - body
+    - 2143
+    - 3852
+  label: 渴
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d6d7
+    span:
+    - body
+    - 3852
+    - 4505
+  label: 嘔
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d6d8
+    span:
+    - body
+    - 4505
+    - 4855
+  label: 痛
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4d7
+    span:
+    - body
+    - 4855
+    - 5274
+  label: 托裡消毒散加減法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d7d6
+    span:
+    - body
+    - 5048
+    - 5274
+  label: 出血
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4d8
+    span:
+    - body
+    - 5274
+    - 5318
+  label: 僵肉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4d9
+    span:
+    - body
+    - 5318
+    - 5858
+  label: 瘡攣急牽陰入腹
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d9d4
+    span:
+    - body
+    - 5397
+    - 5433
+  label: 寒熱
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d9d5
+    span:
+    - body
+    - 5433
+    - 5553
+  label: 飲食
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d9d6
+    span:
+    - body
+    - 5553
+    - 5806
+  label: 藥忌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d9d7
+    span:
+    - body
+    - 5806
+    - 5832
+  label: 辨舌
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d9d8
+    span:
+    - body
+    - 5832
+    - 5858
+  label: 內陷
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4d10
+    span:
+    - body
+    - 5858
+    - 6165
+  label: 生肌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d10d4
+    span:
+    - body
+    - 5959
+    - 5999
+  label: 驗膜
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d10d5
+    span:
+    - body
+    - 5999
+    - 6106
+  label: 陽症變陰
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d10d6
+    span:
+    - body
+    - 6106
+    - 6165
+  label: 陰症變陽
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4d11
+    span:
+    - body
+    - 6165
+    - 7310
+  label: 潰瘍外治附
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d11d2
+    span:
+    - body
+    - 6170
+    - 6246
+  label: 腫瘍針口治法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d11d3
+    span:
+    - body
+    - 6246
+    - 6323
+  label: 瘡口去腐肉法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d11d4
+    span:
+    - body
+    - 6323
+    - 6394
+  label: 瘡潰口中有黑疔治法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d11d5
+    span:
+    - body
+    - 6394
+    - 6455
+  label: 頑肉不去治法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d11d6
+    span:
+    - body
+    - 6455
+    - 6602
+  label: 瘡口努肉治法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d11d7
+    span:
+    - body
+    - 6602
+    - 6649
+  label: 瘡不生肌治法
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d11d8
+    span:
+    - body
+    - 6649
+    - 6702
+  label: 瘡不收口
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d11d9
+    span:
+    - body
+    - 6702
+    - 6743
+  label: 瘡口皮嫩
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d11d10
+    span:
+    - body
+    - 6743
+    - 6873
+  label: 瘡潰誤入毒水
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4.d11d11
+    span:
+    - body
+    - 6873
+    - 7310
+  label: 馬汗入瘡
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4d12
+    span:
+    - body
+    - 7310
+    - 7540
+  label: 用針勿忌尻神
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ek015_jc_003-d4d13
+    span:
+    - body
+    - 7540
+    - 7600
+  label: 油紙法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ek015_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6409
+  label: 補遺方
+  type: section
+  level: 1
+hash: sha256:af1224cb1c764e7e845cea904b4338ad82637e9ded514c9f3d20b7c5a051d44d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
